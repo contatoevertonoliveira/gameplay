@@ -1,0 +1,244 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/everton/Documentos/Estudos/Native/gameplay
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+fatal: your current branch 'master' does not have any commits yet
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+fatal: your current branch 'master' does not have any commits yet
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+fatal: your current branch 'master' does not have any commits yet
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git check-ignore -v -z --stdin
+> git show --textconv :src/screens/Signin/styles.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/screens/Signin/styles.ts
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/styles.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/screens/Signin/index.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/src/screens/Signin/index.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :App.tsx
+> git ls-files --stage -- /home/everton/Documentos/Estudos/Native/gameplay/App.tsx
+> git cat-file -s 7aced7cd7da6899d13ee9f2ad7fe41a0e90c9ac9
