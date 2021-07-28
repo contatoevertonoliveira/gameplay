@@ -5,6 +5,7 @@ import { ImageBackground, Text, View, FlatList } from 'react-native';
 import { Background } from '../../components/Background';
 import { ListHeader } from '../../components/ListHeader';
 import { ListDivider } from '../../components/ListDivider';
+import { ButtonIcon } from '../../components/ButtonIcon';
 import { Header } from '../../components/Header';
 import { Member } from '../../components/Member';
 import { theme } from '../../global/styles/theme';
@@ -71,6 +72,9 @@ export function AppointmentsDetails(){
           ItemSeparatorComponent={() => <ListDivider />}
           style={styles.members}
         />
+        <View style={styles.footer}>
+        <ButtonIcon title="Entrar na partida"/>
+        </View>
       </Background>
   );
 }
